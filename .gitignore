@@ -1,0 +1,15 @@
+# Gradle ビルドフォルダ
+/build/
+.gradle/
+
+# IDE の設定ファイル
+.idea/
+*.iml
+*.class
+
+# OS 一時ファイル
+.DS_Store
+Thumbs.db
+
+# 環境変数ファイル (APIキーなど)
+.env
